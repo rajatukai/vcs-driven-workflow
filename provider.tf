@@ -3,7 +3,7 @@ terraform {
     organization = "hcta-azure-demo100"
 
     workspaces {
-      name = "cli-driven-azure-demo"
+      name = "vcs-driven-workflow"
     }
   }
   required_providers {
